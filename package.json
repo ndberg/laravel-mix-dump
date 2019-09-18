@@ -1,0 +1,29 @@
+{
+  "name": "laravel-mix-dump",
+  "version": "1.0.0",
+  "description": "Dump for Laravel Mix",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndberg/laravel-mix-dump.git"
+  },
+  "keywords": [
+    "laravel-mix",
+    "dump"
+  ],
+  "author": "Andreas Berger",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndberg/laravel-mix-dump/issues"
+  },
+  "homepage": "https://github.com/ndberg/laravel-mix-dump",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "laravel-mix": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+}
