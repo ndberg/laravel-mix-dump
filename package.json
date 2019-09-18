@@ -1,8 +1,8 @@
 {
   "name": "laravel-mix-dump",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dump for Laravel Mix",
-  "main": "src/index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ndberg/laravel-mix-dump.git"
